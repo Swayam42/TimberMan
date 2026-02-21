@@ -1,0 +1,2 @@
+g++ Timber.cpp -o Timber -lsfml-graphics -lsfml-window -lsfml-system && ./Timber
+g++ test.cpp -o test -lsfml-graphics -lsfml-window -lsfml-system && ./test
